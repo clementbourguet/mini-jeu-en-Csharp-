@@ -1,0 +1,14 @@
+C:\Users\Clément\Desktop\openClassRooms\JeuRole\bin\Debug\net8.0\JeuRole.exe
+C:\Users\Clément\Desktop\openClassRooms\JeuRole\bin\Debug\net8.0\JeuRole.deps.json
+C:\Users\Clément\Desktop\openClassRooms\JeuRole\bin\Debug\net8.0\JeuRole.runtimeconfig.json
+C:\Users\Clément\Desktop\openClassRooms\JeuRole\bin\Debug\net8.0\JeuRole.dll
+C:\Users\Clément\Desktop\openClassRooms\JeuRole\bin\Debug\net8.0\JeuRole.pdb
+C:\Users\Clément\Desktop\openClassRooms\JeuRole\obj\Debug\net8.0\JeuRole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Clément\Desktop\openClassRooms\JeuRole\obj\Debug\net8.0\JeuRole.AssemblyInfoInputs.cache
+C:\Users\Clément\Desktop\openClassRooms\JeuRole\obj\Debug\net8.0\JeuRole.AssemblyInfo.cs
+C:\Users\Clément\Desktop\openClassRooms\JeuRole\obj\Debug\net8.0\JeuRole.csproj.CoreCompileInputs.cache
+C:\Users\Clément\Desktop\openClassRooms\JeuRole\obj\Debug\net8.0\JeuRole.dll
+C:\Users\Clément\Desktop\openClassRooms\JeuRole\obj\Debug\net8.0\refint\JeuRole.dll
+C:\Users\Clément\Desktop\openClassRooms\JeuRole\obj\Debug\net8.0\JeuRole.pdb
+C:\Users\Clément\Desktop\openClassRooms\JeuRole\obj\Debug\net8.0\JeuRole.genruntimeconfig.cache
+C:\Users\Clément\Desktop\openClassRooms\JeuRole\obj\Debug\net8.0\ref\JeuRole.dll
