@@ -15,6 +15,7 @@ namespace JeuRole
         protected int degatsMax;
         protected Random random = new Random();
 
+
         // constructeur 
         public Entite(string nom)
         {
@@ -49,5 +50,10 @@ namespace JeuRole
         {
             return this.estMort;
         }
+        public string GetNom()
+        {
+            return this.nom;
+        }
+
     }
 }

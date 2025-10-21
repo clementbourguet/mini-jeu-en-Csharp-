@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("JeuRole")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+693494af208b4857af99ff5df8a3a9fd8f83d611")]
 [assembly: System.Reflection.AssemblyProductAttribute("JeuRole")]
 [assembly: System.Reflection.AssemblyTitleAttribute("JeuRole")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

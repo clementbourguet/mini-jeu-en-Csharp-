@@ -12,3 +12,4 @@ C:\Users\Clément\Desktop\openClassRooms\JeuRole\obj\Debug\net8.0\refint\JeuRole
 C:\Users\Clément\Desktop\openClassRooms\JeuRole\obj\Debug\net8.0\JeuRole.pdb
 C:\Users\Clément\Desktop\openClassRooms\JeuRole\obj\Debug\net8.0\JeuRole.genruntimeconfig.cache
 C:\Users\Clément\Desktop\openClassRooms\JeuRole\obj\Debug\net8.0\ref\JeuRole.dll
+C:\Users\Clément\Desktop\openClassRooms\JeuRole\obj\Debug\net8.0\JeuRole.sourcelink.json
